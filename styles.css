@@ -20,7 +20,6 @@ body{
     font-size: 15px;
 }
 
-/* container are used a lot so I changed the name as well as show in the video */
 .container{
     max-width: 360px;
     margin: 0 auto;
