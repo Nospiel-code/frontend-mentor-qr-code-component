@@ -2,6 +2,8 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+![image](https://github.com/Nospiel-code/frontend-mentor-qr-code-component/assets/130290610/18adbf24-6bc7-4248-8b4e-a917a42d4600)
+
 ## Table of contents
 
 - [My process](#my-process)
