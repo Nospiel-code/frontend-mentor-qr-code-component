@@ -39,4 +39,4 @@ How to upload a project to GitHub.
 ## Author
 
 - Frontend Mentor - [@Nospiel-code](https://www.frontendmentor.io/profile/Nospiel-code)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@tomsdev4](https://www.twitter.com/tomsdev4)
